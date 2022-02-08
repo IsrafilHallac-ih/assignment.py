@@ -1,0 +1,2 @@
+# assignment.py
+BTK AKADEMİ
